@@ -172,7 +172,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`user_id`, `user_name`, `user_email`, `user_password`) VALUES
-(1, 'himanshu', 'himanshuwarekar@yahoo.com', '$2b$12$IjFgSnAJCdxQrksUSbTq9Oox7YzBx4Q0WdcRM3FJaLP5CAJ4H9O8i');
+(1, 'gokul', 'gokul.parupalli4679@gmail.com', '$2b$12$IjFgSnAJCdxQrksUSbTq9Oox7YzBx4Q0WdcRM3FJaLP5CAJ4H9O8i');
 
 --
 -- Indexes for dumped tables
