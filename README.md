@@ -18,7 +18,6 @@
 - MySQL Server done
 
 # To Run the app
-- Fork the repository
 - Import the '.sql' file in MySQL server
 - Run the app and goto 'localhost:5000'
 - Test Accounts Present
